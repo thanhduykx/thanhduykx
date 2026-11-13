@@ -9,5 +9,4 @@ Mình phát triển ứng dụng web với **React, TypeScript và ASP.NET Core*
 
 ## Dự án nổi bật
 
-**[Homeji](https://github.com/fogit-hd/EXE101_Homeji)** · React, TypeScript, ASP.NET Core, PostgreSQL  
-Dự án nhóm kết nối người thuê với chủ trọ. Người dùng có thể tìm phòng trên bản đồ, tìm bạn ở ghép và đăng tin. [Xem backend](https://github.com/thanhduykx/Homeji_BE).
+**[Homeji](https://github.com/fogit-hd/EXE101_Homeji)** ([Backend](https://github.com/thanhduykx/Homeji_BE)) · React, TypeScript, ASP.NET Core, PostgreSQL
