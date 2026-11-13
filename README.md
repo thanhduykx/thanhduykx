@@ -5,7 +5,9 @@
 
 Mình phát triển ứng dụng web với **React, TypeScript và ASP.NET Core**, từ giao diện tương tác đến API và cơ sở dữ liệu.
 
-**Vị trí:** TP. Hồ Chí Minh · **Facebook:** [facebook.com/Mr.dduy](https://www.facebook.com/Mr.dduy)
+**Vị trí:** TP. Hồ Chí Minh
+
+<a href="https://www.facebook.com/Mr.dduy"><img src="./assets/facebook-button.svg" alt="Facebook · Mr.dduy" height="36"></a>
 
 ## Dự án nổi bật
 
