@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/nso-profile-poster.png">
-  <img src="./assets/nso-profile.gif" alt="Dương Thành Thanh Duy, full-stack developer. Pixel art cảnh ninja tập kiếm dưới trăng.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/nso-sprites-poster.png">
+  <img src="./assets/nso-sprites.gif" alt="Dương Thành Thanh Duy, full-stack developer. Hai ninja từ Ninja School Online đấu kiếm dưới trăng.">
 </picture>
 
 Mình phát triển ứng dụng web với **React, TypeScript và ASP.NET Core**, từ giao diện tương tác đến API và cơ sở dữ liệu.
