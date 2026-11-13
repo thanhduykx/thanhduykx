@@ -11,4 +11,8 @@ Mình phát triển ứng dụng web với **React, TypeScript và ASP.NET Core*
 
 ## Dự án nổi bật
 
-**[Homeji](https://github.com/fogit-hd/EXE101_Homeji)** ([Backend](https://github.com/thanhduykx/Homeji_BE)) · React, TypeScript, ASP.NET Core, PostgreSQL
+**[Homeji](https://github.com/fogit-hd/EXE101_Homeji)** ([Backend](https://github.com/thanhduykx/Homeji_BE)) · React, TypeScript, ASP.NET Core, PostgreSQL, Supabase, SignalR, Google Maps, PayOS, MoMo, Ví điện tử, Docker
+
+**[EduVietRAG](https://github.com/thanhduykx/PRN222_FINAL)** · ASP.NET Core Razor Pages, PostgreSQL, EF Core, SignalR, Gemini, Groq, RAG, Google OAuth, PayOS, MoMo, GitHub Actions
+
+**[CPMS](https://github.com/thanhduykx/SWD_Capstone)** · ASP.NET Core, PostgreSQL, Redis, RabbitMQ, Hangfire, SignalR, JWT, Docker
